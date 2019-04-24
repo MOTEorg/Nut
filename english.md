@@ -8,3 +8,5 @@
 
 ## Various
 - [MinuteEarth](https://www.youtube.com/user/minuteearth)
+- [Vsauce](https://www.youtube.com/user/Vsauce)
+- [Veritasium](https://www.youtube.com/user/1veritasium)

@@ -34,5 +34,6 @@
 - [ELRobotdePlaton](https://www.youtube.com/user/ElRobotdePlaton)
 - [Hastelalista](https://www.youtube.com/user/haztelalista)
 - [MinutoDeLaTierra](https://www.youtube.com/user/MinutoDeLaTierra)
+- [Veritasium](https://www.youtube.com/channel/UCXtxgWwk55kVJo9lCCZRdmg)
 
 
