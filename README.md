@@ -1,5 +1,5 @@
 # List of science divulgation Youtube channels
-The information is and it was always published in written documents, but today is more easy to know about something with a Youtube video.
+The information was always published in written documents, but today is more easy to know about something with a Youtube video.
 
 + **N**: Not
 + **U**: Understanding
@@ -7,6 +7,6 @@ The information is and it was always published in written documents, but today i
 
 A nut has a hard shell, but one time this is open, inside it is one of the most delicious meals. Let crack the hull of doubts.
 
-### [*Lista de canales en Español*](./spanish.md)
+### [*Lista de canales en español*](./spanish.md)
 
-### [*English channels List*](./english.md)
+### [*English channels list*](./english.md)

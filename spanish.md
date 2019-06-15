@@ -17,11 +17,12 @@
 - [QuantumFracture](https://www.youtube.com/user/QuantumFracture)
 - [MinutodeFísica](https://www.youtube.com/user/minutephysics)
 
-## Informática
+## Inteligencia Artificial
 - [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
 
 ## Matemática
 - [Derivando](https://www.youtube.com/channel/UCH-Z8ya93m7_RD02WsCSZYA)
+- [Julio Profe](https://www.youtube.com/user/julioprofe)
 
 ## Música
 - [Jaime Altozano](https://www.youtube.com/channel/UCa3DVlGH2_QhvwuWlPa6MDQ)
