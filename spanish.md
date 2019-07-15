@@ -2,15 +2,14 @@
 - [Antroporama](https://www.youtube.com/channel/UCGKzjVZGdJ0YmUqg42xfO5w)
 - [VisualPolitik](https://www.youtube.com/channel/UCJQQVLyM6wtPleV4wFBK06g)
 
-
 ## Arquitectura
 - [Ter](https://www.youtube.com/channel/UCCNgRIfWQKZyPkNvHEzPh7Q)
 
 ## Biología
 - [Wikiseba](https://www.youtube.com/user/imrdu3000)
 
-## Economía
-
+## Electrónica
+- [Electronoobs](https://www.youtube.com/channel/UCL_QvUUeriC6q610RCXDlSQ)
 
 ## Física
 - [Date un Voltio](https://www.youtube.com/channel/UCns-8DssCBba7M4nu7wk7Aw)
@@ -27,8 +26,6 @@
 ## Música
 - [Jaime Altozano](https://www.youtube.com/channel/UCa3DVlGH2_QhvwuWlPa6MDQ)
 - [Alvinsch](https://www.youtube.com/channel/UCqDkaR-FEerytN_LpiQkumA)
-
-
 
 ## Varios
 - [CdeCiencia](https://www.youtube.com/user/CdeCiencia)
