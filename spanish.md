@@ -13,8 +13,8 @@
 
 ## Física
 - [Date un Voltio](https://www.youtube.com/channel/UCns-8DssCBba7M4nu7wk7Aw)
-- [QuantumFracture](https://www.youtube.com/user/QuantumFracture)
 - [MinutodeFísica](https://www.youtube.com/user/minutephysics)
+- [QuantumFracture](https://www.youtube.com/user/QuantumFracture)
 
 ## Inteligencia Artificial
 - [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
@@ -22,10 +22,12 @@
 ## Matemática
 - [Derivando](https://www.youtube.com/channel/UCH-Z8ya93m7_RD02WsCSZYA)
 - [Julio Profe](https://www.youtube.com/user/julioprofe)
+- [Leminiscata](https://www.youtube.com/channel/UC-ihtKdODqNE7iPISJD3DnA)
 
 ## Música
-- [Jaime Altozano](https://www.youtube.com/channel/UCa3DVlGH2_QhvwuWlPa6MDQ)
 - [Alvinsch](https://www.youtube.com/channel/UCqDkaR-FEerytN_LpiQkumA)
+- [Jaime Altozano](https://www.youtube.com/channel/UCa3DVlGH2_QhvwuWlPa6MDQ)
+
 
 ## Varios
 - [CdeCiencia](https://www.youtube.com/user/CdeCiencia)
