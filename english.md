@@ -1,5 +1,7 @@
 ## Electronics
 - [Estefannie Explains It All](https://www.youtube.com/user/estefanniegg)
+- [Ben Eater](https://www.youtube.com/user/eaterbc)
+- [Electronoobs](https://www.youtube.com/channel/UCjiVhIvGmRZixSzupD0sS9Q)
 
 ## Neuroscience
 - [Neuro Transmissions](https://www.youtube.com/user/neurotransmissions)
@@ -10,6 +12,7 @@
 
 ## Physics
 - [MinuteofPhysics](https://www.youtube.com/user/minuteofphysics)
+- [International Centre for Theoretical Sciences](https://www.youtube.com/user/ICTStalks) 
 
 ## Social-Biological Dynamics
 - [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ)
