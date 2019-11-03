@@ -8,13 +8,11 @@
 ## Biología
 - [Wikiseba](https://www.youtube.com/user/imrdu3000)
 
-<<<<<<< HEAD
 ## Economía
 - [Solo Papel y Boli](https://www.youtube.com/channel/UCthOc28CPf2T9QVWUGWrkKg)
-=======
+
 ## Electrónica
 - [Electronoobs](https://www.youtube.com/channel/UCL_QvUUeriC6q610RCXDlSQ)
->>>>>>> 8d4b8fa9d3eddaf6fc6c47bba9d422269ff5f3a0
 
 ## Física
 - [Date un Voltio](https://www.youtube.com/channel/UCns-8DssCBba7M4nu7wk7Aw)
