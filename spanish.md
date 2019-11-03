@@ -10,7 +10,7 @@
 - [Wikiseba](https://www.youtube.com/user/imrdu3000)
 
 ## Economía
-
+- [Solo Papel y Boli](https://www.youtube.com/channel/UCthOc28CPf2T9QVWUGWrkKg)
 
 ## Física
 - [Date un Voltio](https://www.youtube.com/channel/UCns-8DssCBba7M4nu7wk7Aw)
